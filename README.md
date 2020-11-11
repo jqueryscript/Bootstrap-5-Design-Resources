@@ -25,3 +25,4 @@
 ## UI Components
 - [Sidebar Navigation](https://github.com/frontendfunn/bootstrap-v5-sidebar-navigation) - Boostrap v5 Sidebar Navigation.
 - [jbvalidator](https://github.com/emretulek/jbvalidator) - HTML 5 & Bootstrap Jquery Form Validation Plugin
+- [enchanter](https://github.com/brunnopleffken/enchanter) - Native JS form wizard plugin for Bootstrap 5
