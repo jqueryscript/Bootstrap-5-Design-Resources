@@ -30,3 +30,7 @@
 - [Sidebar Navigation](https://github.com/frontendfunn/bootstrap-v5-sidebar-navigation) - Boostrap v5 Sidebar Navigation.
 - [jbvalidator](https://github.com/emretulek/jbvalidator) - HTML 5 & Bootstrap Jquery Form Validation Plugin
 - [enchanter](https://github.com/brunnopleffken/enchanter) - Native JS form wizard plugin for Bootstrap 5
+
+## Libraries
+
+- [bootstrap-ie11](https://github.com/coliff/bootstrap-ie11) - CSS & JS polyfills for Internet Explorer 11 compatibility
