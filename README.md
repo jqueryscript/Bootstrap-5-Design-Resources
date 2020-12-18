@@ -28,10 +28,14 @@
 
 ## UI Components
 - [Sidebar Navigation](https://github.com/frontendfunn/bootstrap-v5-sidebar-navigation) - Boostrap v5 Sidebar Navigation.
-- [jbvalidator](https://github.com/emretulek/jbvalidator) - HTML 5 & Bootstrap Jquery Form Validation Plugin
-- [enchanter](https://github.com/brunnopleffken/enchanter) - Native JS form wizard plugin for Bootstrap 5
-- [Bootstrap Avatar](https://github.com/ghoststead/bootstrap-avatar) - Avatar classes to extend Bootstrap 5
+- [jbvalidator](https://github.com/emretulek/jbvalidator) - HTML 5 & Bootstrap Jquery Form Validation Plugin.
+- [enchanter](https://github.com/brunnopleffken/enchanter) - Native JS form wizard plugin for Bootstrap 5.
+- [Bootstrap Avatar](https://github.com/ghoststead/bootstrap-avatar) - Avatar classes to extend Bootstrap 5.
 
 ## Libraries
 
-- [bootstrap-ie11](https://github.com/coliff/bootstrap-ie11) - CSS & JS polyfills for Internet Explorer 11 compatibility
+- [bootstrap-ie11](https://github.com/coliff/bootstrap-ie11) - CSS & JS polyfills for Internet Explorer 11 compatibility.
+
+## Themes
+
+- [bootstrap-5-dark-mode](https://github.com/xcartmods/bootstrap-5-dark-mode) - Dark Mode (Theme) for Bootstrap 5.
