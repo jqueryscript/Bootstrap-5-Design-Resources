@@ -20,6 +20,7 @@
 ## Templates
 
 - [Swipe](https://github.com/themesberg/swipe-one-page-bootstrap-5) - One Page Bootstrap 5 Template for Mobile Applications.
+- [bootstrap5-template](https://github.com/SrikrushnaP/bootstrap5-template) - A landing page template built with Bootstrap 5.
 
 ## Dashboards & Admin Panels
 - [voler](https://github.com/zuramai/voler) - Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5.
