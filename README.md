@@ -28,7 +28,7 @@
 - [portal-theme-bs5](https://github.com/xriley/portal-theme-bs5) - Free Bootstrap 5 Admin Dashboard Template For Developers.
 
 ## UI Components
-- [Sidebar Navigation](https://github.com/frontendfunn/bootstrap-v5-sidebar-navigation) - Boostrap v5 Sidebar Navigation.
+- [bootstrap5-offcanvas-navbar](https://github.com/IamManchanda/bootstrap5-offcanvas-navbar) - Bootstrap5: Off-canvas Navbar.
 - [jbvalidator](https://github.com/emretulek/jbvalidator) - HTML 5 & Bootstrap Jquery Form Validation Plugin.
 - [enchanter](https://github.com/brunnopleffken/enchanter) - Native JS form wizard plugin for Bootstrap 5.
 - [Bootstrap Avatar](https://github.com/ghoststead/bootstrap-avatar) - Avatar classes to extend Bootstrap 5.
