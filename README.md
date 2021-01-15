@@ -33,6 +33,7 @@
 - [enchanter](https://github.com/brunnopleffken/enchanter) - Native JS form wizard plugin for Bootstrap 5.
 - [Bootstrap Avatar](https://github.com/ghoststead/bootstrap-avatar) - Avatar classes to extend Bootstrap 5.
 - [Dynamic BS5 Modal Box](https://github.com/zFunx/Dynamic-BS5-Modal-Box) - Create Bootstrap 5 Modal Box using JavaScript with custom title, description, button labels and custom YES button callback.
+- [bootstrap-5-autocomplete](https://github.com/gch1p/bootstrap-5-autocomplete) - Autocomplete/typeahead js plugin for bootstrap v5.
 
 ## Libraries
 
