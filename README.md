@@ -26,6 +26,7 @@
 - [voler](https://github.com/zuramai/voler) - Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5.
 - [adminkit](https://github.com/adminkit/adminkit) - Free & open source Bootstrap 5 Admin Template.
 - [portal-theme-bs5](https://github.com/xriley/portal-theme-bs5) - Free Bootstrap 5 Admin Dashboard Template For Developers.
+- [mazer](https://github.com/zuramai/mazer) - Free Bootstrap 5 Admin Dashboard Template and Landing Page.
 
 ## UI Components
 - [bootstrap5-offcanvas-navbar](https://github.com/IamManchanda/bootstrap5-offcanvas-navbar) - Bootstrap5: Off-canvas Navbar.
