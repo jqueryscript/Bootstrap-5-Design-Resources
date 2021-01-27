@@ -45,3 +45,6 @@
 ## Themes
 
 - [bootstrap-5-dark-mode](https://github.com/xcartmods/bootstrap-5-dark-mode) - Dark Mode (Theme) for Bootstrap 5.
+
+## Miscellaneous 
+- [bootstrap5-cheatsheet](https://github.com/themeselection/bootstrap5-cheatsheet) - The ultimate cheatsheet for Bootstrap 5.
