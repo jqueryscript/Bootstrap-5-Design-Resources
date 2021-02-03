@@ -27,6 +27,7 @@
 - [adminkit](https://github.com/adminkit/adminkit) - Free & open source Bootstrap 5 Admin Template.
 - [portal-theme-bs5](https://github.com/xriley/portal-theme-bs5) - Free Bootstrap 5 Admin Dashboard Template For Developers.
 - [mazer](https://github.com/zuramai/mazer) - Free Bootstrap 5 Admin Dashboard Template and Landing Page.
+- [Avni](https://github.com/ajkr195/Avni) - Bootstrap 5 Admin Template. [Live Demo](https://www.cssscript.com/demo/bootstrap-5-admin-template-avni)
 
 ## UI Components
 - [bootstrap5-offcanvas-navbar](https://github.com/IamManchanda/bootstrap5-offcanvas-navbar) - Bootstrap5: Off-canvas Navbar.
