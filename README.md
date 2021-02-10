@@ -12,6 +12,18 @@
   Useful JavaScript libraries, CSS extensions, UI components for Bootstrap 5.
 </p>
 
+## UI Components
+- [bootstrap5-offcanvas-navbar](https://github.com/IamManchanda/bootstrap5-offcanvas-navbar) - Bootstrap5: Off-canvas Navbar.
+- [jbvalidator](https://github.com/emretulek/jbvalidator) - HTML 5 & Bootstrap Jquery Form Validation Plugin.
+- [enchanter](https://github.com/brunnopleffken/enchanter) - Native JS form wizard plugin for Bootstrap 5.
+- [Bootstrap Avatar](https://github.com/ghoststead/bootstrap-avatar) - Avatar classes to extend Bootstrap 5.
+- [Dynamic BS5 Modal Box](https://github.com/zFunx/Dynamic-BS5-Modal-Box) - Create Bootstrap 5 Modal Box using JavaScript with custom title, description, button labels and custom YES button callback.
+- [bootstrap-5-autocomplete](https://github.com/gch1p/bootstrap-5-autocomplete) - Autocomplete/typeahead js plugin for bootstrap v5.
+- [iModal](https://github.com/GuxMartin/iModal) - Simple bootstrap 4/5 modals generator. Ideal for ajax requests.
+- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Data table plugin for Bootstrap 5/4/3.
+- [iconpicker](https://github.com/dogukanakkaya/iconpicker) - Iconpicker for Bootstrap 5 Icons.  [Live Demo](https://www.cssscript.com/demo/bootstrap-5-icon-picker)
+- [BS5ModalJS](https://github.com/babski123/BS5ModalJS) - A JavaScript class for creating Bootstrap 5 Modals.  [Live Demo](https://www.cssscript.com/demo/bootstrap-5-modal-generator)
+
 ## UI Kits
 
 - [grayshift](https://github.com/yanchokraev/grayshift) - Lightweight front-end component library for developing fast and powerful web interfaces.
@@ -28,18 +40,6 @@
 - [portal-theme-bs5](https://github.com/xriley/portal-theme-bs5) - Free Bootstrap 5 Admin Dashboard Template For Developers.
 - [mazer](https://github.com/zuramai/mazer) - Free Bootstrap 5 Admin Dashboard Template and Landing Page.
 - [Avni](https://github.com/ajkr195/Avni) - Bootstrap 5 Admin Template. [Live Demo](https://www.cssscript.com/demo/bootstrap-5-admin-template-avni)
-
-## UI Components
-- [bootstrap5-offcanvas-navbar](https://github.com/IamManchanda/bootstrap5-offcanvas-navbar) - Bootstrap5: Off-canvas Navbar.
-- [jbvalidator](https://github.com/emretulek/jbvalidator) - HTML 5 & Bootstrap Jquery Form Validation Plugin.
-- [enchanter](https://github.com/brunnopleffken/enchanter) - Native JS form wizard plugin for Bootstrap 5.
-- [Bootstrap Avatar](https://github.com/ghoststead/bootstrap-avatar) - Avatar classes to extend Bootstrap 5.
-- [Dynamic BS5 Modal Box](https://github.com/zFunx/Dynamic-BS5-Modal-Box) - Create Bootstrap 5 Modal Box using JavaScript with custom title, description, button labels and custom YES button callback.
-- [bootstrap-5-autocomplete](https://github.com/gch1p/bootstrap-5-autocomplete) - Autocomplete/typeahead js plugin for bootstrap v5.
-- [iModal](https://github.com/GuxMartin/iModal) - Simple bootstrap 4/5 modals generator. Ideal for ajax requests.
-- [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Data table plugin for Bootstrap 5/4/3.
-- [iconpicker](https://github.com/dogukanakkaya/iconpicker) - Iconpicker for Bootstrap 5 Icons.  [Live Demo](https://www.cssscript.com/demo/bootstrap-5-icon-picker)
-- [BS5ModalJS](https://github.com/babski123/BS5ModalJS) - A JavaScript class for creating Bootstrap 5 Modals.  [Live Demo](https://www.cssscript.com/demo/bootstrap-5-modal-generator)
 
 ## Libraries
 
