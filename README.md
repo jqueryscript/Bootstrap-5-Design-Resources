@@ -23,6 +23,7 @@
 - [bootstrap-table](https://github.com/wenzhixin/bootstrap-table) - Data table plugin for Bootstrap 5/4/3.
 - [iconpicker](https://github.com/dogukanakkaya/iconpicker) - Iconpicker for Bootstrap 5 Icons.  [Live Demo](https://www.cssscript.com/demo/bootstrap-5-icon-picker)
 - [BS5ModalJS](https://github.com/babski123/BS5ModalJS) - A JavaScript class for creating Bootstrap 5 Modals.  [Live Demo](https://www.cssscript.com/demo/bootstrap-5-modal-generator)
+- [form-animated-labels-vanilla-js](https://github.com/tuedodev/form-animated-labels-vanilla-js) - Form with animated labels in pure Vanilla Javascript and Bootstrap 5 beta2.
 
 ## UI Kits
 
