@@ -25,6 +25,7 @@
 - [BS5ModalJS](https://github.com/babski123/BS5ModalJS) - A JavaScript class for creating Bootstrap 5 Modals.  [Live Demo](https://www.cssscript.com/demo/bootstrap-5-modal-generator)
 - [form-animated-labels-vanilla-js](https://github.com/tuedodev/form-animated-labels-vanilla-js) - Form with animated labels in pure Vanilla Javascript and Bootstrap 5 beta2.
 - [SideNav](https://github.com/harshitjain-hj/SideNav) - Responsive Side NavBar with Bootstrap 5.
+- [bootstrap-5-multi-level-dropdown](https://github.com/dallaslu/bootstrap-5-multi-level-dropdown) - Multiple level dropdown works with Bootstrap 5, just like native support.
 
 ## UI Kits
 
