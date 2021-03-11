@@ -26,6 +26,7 @@
 - [form-animated-labels-vanilla-js](https://github.com/tuedodev/form-animated-labels-vanilla-js) - Form with animated labels in pure Vanilla Javascript and Bootstrap 5 beta2.
 - [SideNav](https://github.com/harshitjain-hj/SideNav) - Responsive Side NavBar with Bootstrap 5.
 - [bootstrap-5-multi-level-dropdown](https://github.com/dallaslu/bootstrap-5-multi-level-dropdown) - Multiple level dropdown works with Bootstrap 5, just like native support.
+- [autocompleteBS](https://github.com/kanine/autocompleteBS) - A Javascript autocomplete library for Bootstrap 5.
 
 ## UI Kits
 
