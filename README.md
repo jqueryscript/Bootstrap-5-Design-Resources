@@ -27,6 +27,7 @@
 - [SideNav](https://github.com/harshitjain-hj/SideNav) - Responsive Side NavBar with Bootstrap 5.
 - [bootstrap-5-multi-level-dropdown](https://github.com/dallaslu/bootstrap-5-multi-level-dropdown) - Multiple level dropdown works with Bootstrap 5, just like native support.
 - [autocompleteBS](https://github.com/kanine/autocompleteBS) - A Javascript autocomplete library for Bootstrap 5.
+- [BsDialogs](https://github.com/atitoff/BsDialogs) - Dialogs based on Bootstrap 5 modal.
 
 ## UI Kits
 
