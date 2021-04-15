@@ -28,6 +28,7 @@
 - [bootstrap-5-multi-level-dropdown](https://github.com/dallaslu/bootstrap-5-multi-level-dropdown) - Multiple level dropdown works with Bootstrap 5, just like native support.
 - [autocompleteBS](https://github.com/kanine/autocompleteBS) - A Javascript autocomplete library for Bootstrap 5.
 - [BsDialogs](https://github.com/atitoff/BsDialogs) - Dialogs based on Bootstrap 5 modal.
+- [bootstrap5-toast](https://github.com/chrisgo/bootstrap5-toast) - Makes Bootstrap 5.x Toasts easier to use. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-5-toast-snackbar/)
 
 ## UI Kits
 
