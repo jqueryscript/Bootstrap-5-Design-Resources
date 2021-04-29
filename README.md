@@ -29,8 +29,9 @@
 - [autocompleteBS](https://github.com/kanine/autocompleteBS) - A Javascript autocomplete library for Bootstrap 5.
 - [BsDialogs](https://github.com/atitoff/BsDialogs) - Dialogs based on Bootstrap 5 modal.
 - [bootstrap5-toast](https://github.com/chrisgo/bootstrap5-toast) - Makes Bootstrap 5.x Toasts easier to use. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-5-toast-snackbar/)
-- [bootstrap-floating-label](https://github.com/tkrotoff/bootstrap-floating-label) - Floating label for Bootstrap
-- [bootstrap-material-input](https://github.com/RalphvK/bootstrap-material-input) - Simple material-style text inputs
+- [bootstrap-floating-label](https://github.com/tkrotoff/bootstrap-floating-label) - Floating label for Bootstrap.
+- [bootstrap-material-input](https://github.com/RalphvK/bootstrap-material-input) - Simple material-style text inputs.
+- [Bootstrap-5-form-validation](https://github.com/skarjan/Bootstrap-5-form-validation) - Form validation using HTML, CSS, JS, Bootstrap, jQuery and RegEx.
 
 ## UI Kits
 
