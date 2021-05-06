@@ -32,6 +32,7 @@
 - [bootstrap-floating-label](https://github.com/tkrotoff/bootstrap-floating-label) - Floating label for Bootstrap.
 - [bootstrap-material-input](https://github.com/RalphvK/bootstrap-material-input) - Simple material-style text inputs.
 - [Bootstrap-5-form-validation](https://github.com/skarjan/Bootstrap-5-form-validation) - Form validation using HTML, CSS, JS, Bootstrap, jQuery and RegEx.
+- [BootstrapToaster](https://github.com/PeytonRG/BootstrapToaster) - Robust, plug & play generator for Bootstrap toasts.
 
 ## UI Kits
 
