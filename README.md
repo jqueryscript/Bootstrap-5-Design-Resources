@@ -33,6 +33,7 @@
 - [bootstrap-material-input](https://github.com/RalphvK/bootstrap-material-input) - Simple material-style text inputs.
 - [Bootstrap-5-form-validation](https://github.com/skarjan/Bootstrap-5-form-validation) - Form validation using HTML, CSS, JS, Bootstrap, jQuery and RegEx.
 - [BootstrapToaster](https://github.com/PeytonRG/BootstrapToaster) - Robust, plug & play generator for Bootstrap toasts.
+- [bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput) - An enhanced HTML 5 file input for Bootstrap 5.x/4.x/3.x with file preview, multiple selection, and more features.
 
 ## UI Kits
 
