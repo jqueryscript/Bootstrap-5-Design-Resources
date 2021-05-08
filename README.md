@@ -34,6 +34,7 @@
 - [Bootstrap-5-form-validation](https://github.com/skarjan/Bootstrap-5-form-validation) - Form validation using HTML, CSS, JS, Bootstrap, jQuery and RegEx.
 - [BootstrapToaster](https://github.com/PeytonRG/BootstrapToaster) - Robust, plug & play generator for Bootstrap toasts.
 - [bootstrap-fileinput](https://github.com/kartik-v/bootstrap-fileinput) - An enhanced HTML 5 file input for Bootstrap 5.x/4.x/3.x with file preview, multiple selection, and more features.
+- [bootstrap5-tags](https://github.com/lekoala/bootstrap5-tags) - Replace select[multiple] with nices Bootstrap 5 badges. [Live Demo](https://www.cssscript.com/demo/tags-input-bootstrap-5)
 
 ## UI Kits
 
