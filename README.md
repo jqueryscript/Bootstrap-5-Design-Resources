@@ -63,3 +63,4 @@
 
 ## Miscellaneous 
 - [bootstrap5-cheatsheet](https://github.com/themeselection/bootstrap5-cheatsheet) - The ultimate cheatsheet for Bootstrap 5.
+- [Best JavaScript & CSS Components For Bootstrap 5](https://www.jqueryscript.net/blog/best-bootstrap-5-component-extension.html) - 10 best and most downloaded JavaScript/CSS libraries that provide additional and enhanced components missing from the latest Bootstrap 5 framework but necessary for modern web development.
