@@ -37,6 +37,7 @@
 - [bootstrap5-tags](https://github.com/lekoala/bootstrap5-tags) - Replace select[multiple] with nices Bootstrap 5 badges. [Live Demo](https://www.cssscript.com/demo/tags-input-bootstrap-5)
 - [bootstrap-star-rating](https://github.com/kartik-v/bootstrap-star-rating) - A simple yet powerful JQuery star rating plugin with fractional rating support.
 - [Tagin](https://github.com/erwinheldy/tagin) - Simple tag input for Bootstrap 5/4.
+- [BsMultiSelect](https://github.com/DashboardCode/BsMultiSelect) - Multiselect plugin for Bootstrap 5 (and 4).
 
 ## UI Kits
 
