@@ -39,6 +39,7 @@
 - [Tagin](https://github.com/erwinheldy/tagin) - Simple tag input for Bootstrap 5/4.
 - [BsMultiSelect](https://github.com/DashboardCode/BsMultiSelect) - Multiselect plugin for Bootstrap 5 (and 4).
 - [bootstrap-show-password-toggle](https://github.com/coliff/bootstrap-show-password-toggle) - A show password as text toggle for Bootstrap forms.
+- [bs5-autocomplete-vanillaJS](https://github.com/Denglo/bs5-autocomplete-vanillaJS) - Bootstrap 5 Autocomplete Plugin With JavaScript. [Live Demo](https://www.cssscript.com/demo/bootstrap-5-autocomplete)
 
 ## UI Kits
 
