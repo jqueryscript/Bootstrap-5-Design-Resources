@@ -40,6 +40,7 @@
 - [BsMultiSelect](https://github.com/DashboardCode/BsMultiSelect) - Multiselect plugin for Bootstrap 5 (and 4).
 - [bootstrap-show-password-toggle](https://github.com/coliff/bootstrap-show-password-toggle) - A show password as text toggle for Bootstrap forms.
 - [bs5-autocomplete-vanillaJS](https://github.com/Denglo/bs5-autocomplete-vanillaJS) - Bootstrap 5 Autocomplete Plugin With JavaScript. [Live Demo](https://www.cssscript.com/demo/bootstrap-5-autocomplete)
+- [bootstrap-input-spinner](https://github.com/shaack/bootstrap-input-spinner) - A Bootstrap plugin to create input spinner elements for number input.
 
 ## UI Kits
 
