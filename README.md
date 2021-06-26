@@ -44,6 +44,7 @@
 - [bs5-offcanvas-menu](https://github.com/engrasel/bs5-offcanvas-menu) - Bootstrap 5 Off Canvas Menu. [Live Demo](https://www.cssscript.com/demo/bootstrap-5-navbar-offcanvas/)
 - [bootstrap5-carousel-multi](https://github.com/jibarradelgado/bootstrap5-carousel-multi) - A carousel that can handle multiple elements and slide one by one. [Live Demo](https://www.cssscript.com/demo/multi-slide-bootstrap-5-carousel)
 - [bootstrap-5-vertical-tabs](https://github.com/tromgy/bootstrap-5-vertical-tabs) - Bootstrap 5 stylesheet that implements vertically-oriented navigation tabs. [Live Demo](https://www.jqueryscript.net/demo/responsive-vertical-tabs-bootstrap/)
+- [Bootstrap 5 Intro Tour](https://github.com/yaras6/bs5-intro-tour) - Extension for bootstrap 5 which allows to build intro tours.
 
 ## UI Kits
 
