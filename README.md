@@ -47,6 +47,7 @@
 - [Bootstrap 5 Intro Tour](https://github.com/yaras6/bs5-intro-tour) - Extension for bootstrap 5 which allows to build intro tours.
 - [startbootstrap-simple-sidebar](https://github.com/StartBootstrap/startbootstrap-simple-sidebar) - An off canvas sidebar navigation Bootstrap HTML template created by Start Bootstrap.
 - [js-regex-form](https://github.com/ankityadavhere/js-regex-form) - Form Validation using regex in JavaScript with Bootstrap.
+- [startbootstrap-scrolling-nav](https://github.com/StartBootstrap/startbootstrap-scrolling-nav) - An unstyled Bootstrap HTML template for creating smooth scrolling, one page websites.
 
 ## UI Kits
 
