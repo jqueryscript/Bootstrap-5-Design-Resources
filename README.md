@@ -70,6 +70,7 @@
 - [portal-theme-bs5](https://github.com/xriley/portal-theme-bs5) - Free Bootstrap 5 Admin Dashboard Template For Developers.
 - [mazer](https://github.com/zuramai/mazer) - Free Bootstrap 5 Admin Dashboard Template and Landing Page.
 - [Avni](https://github.com/ajkr195/Avni) - Bootstrap 5 Admin Template. [Live Demo](https://www.cssscript.com/demo/bootstrap-5-admin-template-avni)
+- [Adminator](https://github.com/puikinsh/Adminator-admin-dashboard) - Easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more.
 
 ## Libraries
 
