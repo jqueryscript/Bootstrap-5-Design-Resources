@@ -49,6 +49,7 @@
 - [js-regex-form](https://github.com/ankityadavhere/js-regex-form) - Form Validation using regex in JavaScript with Bootstrap.
 - [startbootstrap-scrolling-nav](https://github.com/StartBootstrap/startbootstrap-scrolling-nav) - An unstyled Bootstrap HTML template for creating smooth scrolling, one page websites.
 - [autocomplete](https://github.com/comlog-gmbh/autocomplete) - Bootstrap 5/4 compatible autocomplete. [Live Demo](https://www.jqueryscript.net/demo/autocomplete-styled-bootstrap)
+- [BootstrapWizard](https://github.com/IsaRoGaMX/jqueryBootstrapWizard) - jQuery plugin to create Wizard using Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/step-wizard-ui-bootstrap)
 
 ## UI Kits
 
