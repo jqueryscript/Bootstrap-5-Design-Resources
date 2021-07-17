@@ -50,6 +50,7 @@
 - [startbootstrap-scrolling-nav](https://github.com/StartBootstrap/startbootstrap-scrolling-nav) - An unstyled Bootstrap HTML template for creating smooth scrolling, one page websites.
 - [autocomplete](https://github.com/comlog-gmbh/autocomplete) - Bootstrap 5/4 compatible autocomplete. [Live Demo](https://www.jqueryscript.net/demo/autocomplete-styled-bootstrap)
 - [BootstrapWizard](https://github.com/IsaRoGaMX/jqueryBootstrapWizard) - jQuery plugin to create Wizard using Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/step-wizard-ui-bootstrap)
+- [Bootstrap Confirmation Modal](https://github.com/dday9/Bootstrap-Confirmation-Modal) - A simple jQuery and JavaScript solution for displaying and handling Bootstrap confirmation modals on the fly. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-confirmation-modal)
 
 ## UI Kits
 
