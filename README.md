@@ -51,6 +51,7 @@
 - [autocomplete](https://github.com/comlog-gmbh/autocomplete) - Bootstrap 5/4 compatible autocomplete. [Live Demo](https://www.jqueryscript.net/demo/autocomplete-styled-bootstrap)
 - [BootstrapWizard](https://github.com/IsaRoGaMX/jqueryBootstrapWizard) - jQuery plugin to create Wizard using Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/step-wizard-ui-bootstrap)
 - [Bootstrap Confirmation Modal](https://github.com/dday9/Bootstrap-Confirmation-Modal) - A simple jQuery and JavaScript solution for displaying and handling Bootstrap confirmation modals on the fly. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-confirmation-modal)
+- [Next-sidebar](https://github.com/Nelh/Next-sidebar) - Minimalistic but perfect Sidebar Menu for your Admin Application (Built with bootstrap). [Live Demo](https://www.jqueryscript.net/demo/collapsible-sticky-sidebar-nav-next/)
 
 ## UI Kits
 
