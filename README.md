@@ -78,6 +78,7 @@
 ## Libraries
 
 - [bootstrap-ie11](https://github.com/coliff/bootstrap-ie11) - CSS & JS polyfills for Internet Explorer 11 compatibility.
+- [bootstrap-print-css](https://github.com/coliff/bootstrap-print-css) - Print Stylesheet for Bootstrap 5.
 
 ## Themes
 
