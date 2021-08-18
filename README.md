@@ -55,6 +55,7 @@
 - [sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components for Svelte.
 - [Light Switch for Bootstrap 5](https://github.com/han109k/light-switch-bootstrap) - Dark mode toggle for Bootstrap 5.  [Live Demo](https://www.cssscript.com/demo/dark-mode-switcher-bootstrap-5)
 - [bootstrap-validate](https://github.com/PascaleBeier/bootstrap-validate) - A simple Form Validation Utility for Bootstrap 3, Bootstrap 4, and Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/vanilla-javascript-form-validator-bootstrap-framework)
+- [sidebar-skeleton](https://github.com/compostrap/sidebar-skeleton) - Simple and fast sidebar skeleton on Bootstrap 4 and Bootstrap 5.
 
 ## UI Kits
 
