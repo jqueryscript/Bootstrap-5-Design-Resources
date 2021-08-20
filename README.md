@@ -53,9 +53,10 @@
 - [Bootstrap Confirmation Modal](https://github.com/dday9/Bootstrap-Confirmation-Modal) - A simple jQuery and JavaScript solution for displaying and handling Bootstrap confirmation modals on the fly. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-confirmation-modal)
 - [Next-sidebar](https://github.com/Nelh/Next-sidebar) - Minimalistic but perfect Sidebar Menu for your Admin Application (Built with bootstrap). [Live Demo](https://www.jqueryscript.net/demo/collapsible-sticky-sidebar-nav-next/)
 - [sveltestrap](https://github.com/bestguy/sveltestrap) - Bootstrap 4 & 5 components for Svelte.
-- [Light Switch for Bootstrap 5](https://github.com/han109k/light-switch-bootstrap) - Dark mode toggle for Bootstrap 5.  [Live Demo](https://www.cssscript.com/demo/dark-mode-switcher-bootstrap-5)
+- [Light Switch for Bootstrap 5](https://github.com/han109k/light-switch-bootstrap) - Dark mode toggle for Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/dark-mode-switcher-bootstrap-5)
 - [bootstrap-validate](https://github.com/PascaleBeier/bootstrap-validate) - A simple Form Validation Utility for Bootstrap 3, Bootstrap 4, and Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/vanilla-javascript-form-validator-bootstrap-framework)
 - [sidebar-skeleton](https://github.com/compostrap/sidebar-skeleton) - Simple and fast sidebar skeleton on Bootstrap 4 and Bootstrap 5.
+- [bs5treeview](https://github.com/nhmvienna/bs5treeview) - Bootstrap 5 Treeview. [Live Demo](https://www.jqueryscript.net/demo/collapsible-tree-bootstrap)
 
 ## UI Kits
 
