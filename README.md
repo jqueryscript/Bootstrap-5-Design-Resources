@@ -58,7 +58,8 @@
 - [sidebar-skeleton](https://github.com/compostrap/sidebar-skeleton) - Simple and fast sidebar skeleton on Bootstrap 4 and Bootstrap 5.
 - [bs5treeview](https://github.com/nhmvienna/bs5treeview) - Bootstrap 5 Treeview. [Live Demo](https://www.jqueryscript.net/demo/collapsible-tree-bootstrap)
 - [dashboard-skeleton](https://github.com/compostrap/dashboard-skeleton) - Simple and fast dashboard skeleton on Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/dashboard-skeleton-bootstrap)
-- [sidebar-menu](https://github.com/compostrap/sidebar-menu) - Simple and fast multi-level sidebar menu on Bootstrap. [Live Demo](https://compostrap.github.io/sidebar.white)
+- [sidebar-menu](https://github.com/compostrap/sidebar-menu) - Simple and fast multi-level sidebar menu on Bootstrap.
+- [dselect](https://github.com/jarstone/dselect) - Dropdown select box for bootstrap 5.
 
 ## UI Kits
 
