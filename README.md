@@ -61,6 +61,7 @@
 - [sidebar-menu](https://github.com/compostrap/sidebar-menu) - Simple and fast multi-level sidebar menu on Bootstrap.
 - [dselect](https://github.com/jarstone/dselect) - Dropdown select box for bootstrap 5.
 - [bootstrap-cookie-consent-settings](https://github.com/shaack/bootstrap-cookie-consent-settings) - A modal dialog (cookie banner) and framework to handle the German and EU law (as written by EuGH, 1.10.2019 – C-673/17) about cookies in a website. [Live Demo](https://www.jqueryscript.net/demo/cookie-consent-settings-modal)
+- [bootstrap-waitingfor](https://github.com/ehpc/bootstrap-waitingfor) - "Waiting for..." modal dialog with progress bar for Bootstrap.
 
 ## UI Kits
 
