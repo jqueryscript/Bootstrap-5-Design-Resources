@@ -62,6 +62,7 @@
 - [dselect](https://github.com/jarstone/dselect) - Dropdown select box for bootstrap 5.
 - [bootstrap-cookie-consent-settings](https://github.com/shaack/bootstrap-cookie-consent-settings) - A modal dialog (cookie banner) and framework to handle the German and EU law (as written by EuGH, 1.10.2019 – C-673/17) about cookies in a website. [Live Demo](https://www.jqueryscript.net/demo/cookie-consent-settings-modal)
 - [bootstrap-waitingfor](https://github.com/ehpc/bootstrap-waitingfor) - "Waiting for..." modal dialog with progress bar for Bootstrap.
+- [Bootstrap Popover X](https://github.com/kartik-v/bootstrap-popover-x) - Bootstrap popover extended with modal properties and more.
 
 ## UI Kits
 
@@ -85,6 +86,7 @@
 - [mazer](https://github.com/zuramai/mazer) - Free Bootstrap 5 Admin Dashboard Template and Landing Page.
 - [Avni](https://github.com/ajkr195/Avni) - Bootstrap 5 Admin Template. [Live Demo](https://www.cssscript.com/demo/bootstrap-5-admin-template-avni)
 - [Adminator](https://github.com/puikinsh/Adminator-admin-dashboard) - Easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more.
+- [Dash-UI](https://github.com/codescandy/Dash-UI) - A free and open source components and templates kit for dashboard.
 
 ## Libraries
 
