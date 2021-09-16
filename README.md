@@ -63,6 +63,7 @@
 - [bootstrap-cookie-consent-settings](https://github.com/shaack/bootstrap-cookie-consent-settings) - A modal dialog (cookie banner) and framework to handle the German and EU law (as written by EuGH, 1.10.2019 – C-673/17) about cookies in a website. [Live Demo](https://www.jqueryscript.net/demo/cookie-consent-settings-modal)
 - [bootstrap-waitingfor](https://github.com/ehpc/bootstrap-waitingfor) - "Waiting for..." modal dialog with progress bar for Bootstrap.
 - [Bootstrap Popover X](https://github.com/kartik-v/bootstrap-popover-x) - Bootstrap popover extended with modal properties and more.
+- [bootstrap-tabs-x](https://github.com/kartik-v/bootstrap-tabs-x) - Bootstrap tabs supercharged with various alignment and styling options.
 
 ## UI Kits
 
