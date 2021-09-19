@@ -64,6 +64,7 @@
 - [bootstrap-waitingfor](https://github.com/ehpc/bootstrap-waitingfor) - "Waiting for..." modal dialog with progress bar for Bootstrap.
 - [Bootstrap Popover X](https://github.com/kartik-v/bootstrap-popover-x) - Bootstrap popover extended with modal properties and more.
 - [bootstrap-tabs-x](https://github.com/kartik-v/bootstrap-tabs-x) - Bootstrap tabs supercharged with various alignment and styling options.
+- [bootstrap-checkbox-x](https://github.com/kartik-v/bootstrap-checkbox-x) - An extended checkbox plugin for Bootstrap built using JQuery, which allows three checkbox states and includes additional styles. 
 
 ## UI Kits
 
