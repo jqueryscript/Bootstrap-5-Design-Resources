@@ -65,6 +65,7 @@
 - [Bootstrap Popover X](https://github.com/kartik-v/bootstrap-popover-x) - Bootstrap popover extended with modal properties and more.
 - [bootstrap-tabs-x](https://github.com/kartik-v/bootstrap-tabs-x) - Bootstrap tabs supercharged with various alignment and styling options.
 - [bootstrap-checkbox-x](https://github.com/kartik-v/bootstrap-checkbox-x) - An extended checkbox plugin for Bootstrap built using JQuery, which allows three checkbox states and includes additional styles. 
+- [bs5-lightbox](https://github.com/trvswgnr/bs5-lightbox) - A pure JS lightbox gallery plugin for Bootstrap 5 based on the Modal and Carousel plugins.
 
 ## UI Kits
 
