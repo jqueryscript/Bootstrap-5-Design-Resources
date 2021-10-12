@@ -67,6 +67,8 @@
 - [bootstrap-checkbox-x](https://github.com/kartik-v/bootstrap-checkbox-x) - An extended checkbox plugin for Bootstrap built using JQuery, which allows three checkbox states and includes additional styles. 
 - [bs5-lightbox](https://github.com/trvswgnr/bs5-lightbox) - A pure JS lightbox gallery plugin for Bootstrap 5 based on the Modal and Carousel plugins.
 - [MD.BootstrapPersianDateTimePicker](https://github.com/Mds92/MD.BootstrapPersianDateTimePicker) - Bootstrap Persian/Gregorian Date Time Picker.
+- [bootstrap-datetimepicker](https://github.com/simplicitesoftware/bootstrap-datetimepicker) - Bootstrap datetimepicker for Bootstrap 5, 4, and 3.
+
 ## UI Kits
 
 - [grayshift](https://github.com/yanchokraev/grayshift) - Lightweight front-end component library for developing fast and powerful web interfaces.
