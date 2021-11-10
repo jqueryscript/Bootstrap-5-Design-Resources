@@ -68,6 +68,7 @@
 - [bs5-lightbox](https://github.com/trvswgnr/bs5-lightbox) - A pure JS lightbox gallery plugin for Bootstrap 5 based on the Modal and Carousel plugins.
 - [MD.BootstrapPersianDateTimePicker](https://github.com/Mds92/MD.BootstrapPersianDateTimePicker) - Bootstrap Persian/Gregorian Date Time Picker.
 - [bootstrap-datetimepicker](https://github.com/simplicitesoftware/bootstrap-datetimepicker) - Bootstrap datetimepicker for Bootstrap 5, 4, and 3.
+- [bs5-nav-tree](https://github.com/akalp/bs5-nav-tree) - [Live Demo](https://www.cssscript.com/demo/navigation-tree-bootstrap)
 
 ## UI Kits
 
