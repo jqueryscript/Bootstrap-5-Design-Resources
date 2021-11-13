@@ -68,7 +68,9 @@
 - [bs5-lightbox](https://github.com/trvswgnr/bs5-lightbox) - A pure JS lightbox gallery plugin for Bootstrap 5 based on the Modal and Carousel plugins.
 - [MD.BootstrapPersianDateTimePicker](https://github.com/Mds92/MD.BootstrapPersianDateTimePicker) - Bootstrap Persian/Gregorian Date Time Picker.
 - [bootstrap-datetimepicker](https://github.com/simplicitesoftware/bootstrap-datetimepicker) - Bootstrap datetimepicker for Bootstrap 5, 4, and 3.
-- [bs5-nav-tree](https://github.com/akalp/bs5-nav-tree) - [Live Demo](https://www.cssscript.com/demo/navigation-tree-bootstrap)
+- [bs5-nav-tree](https://github.com/akalp/bs5-nav-tree) - A bootstrap 5 plugin to create vertical and nested navigation which support collapsing and searching. [Live Demo](https://www.cssscript.com/demo/navigation-tree-bootstrap)
+- [jsconfirm-buttons](https://github.com/dealfonso/jsconfirm-buttons) - A jQuery plugin that helps create highly customizable confirmation dialog boxes using Bootstrap 5's modal component. [Live Demo](https://www.jqueryscript.net/demo/confirm-dialog-button-bootstrap)
+- [Toaststrap](https://github.com/nawafscript/toaststrap) - A javaScript library for simple, lightweight toast popups. Uses Bootstrap 5 styles.
 
 ## UI Kits
 
