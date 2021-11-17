@@ -71,6 +71,7 @@
 - [bs5-nav-tree](https://github.com/akalp/bs5-nav-tree) - A bootstrap 5 plugin to create vertical and nested navigation which support collapsing and searching. [Live Demo](https://www.cssscript.com/demo/navigation-tree-bootstrap)
 - [jsconfirm-buttons](https://github.com/dealfonso/jsconfirm-buttons) - A jQuery plugin that helps create highly customizable confirmation dialog boxes using Bootstrap 5's modal component. [Live Demo](https://www.jqueryscript.net/demo/confirm-dialog-button-bootstrap)
 - [Toaststrap](https://github.com/nawafscript/toaststrap) - A javaScript library for simple, lightweight toast popups. Uses Bootstrap 5 styles.
+- [BsAlert](https://github.com/Fedec96/jquery-bs-alert) - jQuery plugin for Bootstrap alerts manipulation.
 
 ## UI Kits
 
