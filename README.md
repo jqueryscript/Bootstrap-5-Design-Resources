@@ -72,6 +72,7 @@
 - [jsconfirm-buttons](https://github.com/dealfonso/jsconfirm-buttons) - A jQuery plugin that helps create highly customizable confirmation dialog boxes using Bootstrap 5's modal component. [Live Demo](https://www.jqueryscript.net/demo/confirm-dialog-button-bootstrap)
 - [Toaststrap](https://github.com/nawafscript/toaststrap) - A javaScript library for simple, lightweight toast popups. Uses Bootstrap 5 styles.
 - [BsAlert](https://github.com/Fedec96/jquery-bs-alert) - jQuery plugin for Bootstrap alerts manipulation.
+- [bs-toaster](https://github.com/hummal/bs-toaster) - A Bootstrap 5 Toast Framework.
 
 ## UI Kits
 
