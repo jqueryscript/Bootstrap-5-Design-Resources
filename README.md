@@ -74,6 +74,7 @@
 - [BsAlert](https://github.com/Fedec96/jquery-bs-alert) - jQuery plugin for Bootstrap alerts manipulation.
 - [bs-toaster](https://github.com/hummal/bs-toaster) - A Bootstrap 5 Toast Framework.
 - [bootstrap-show-modal](https://github.com/shaack/bootstrap-show-modal) - jQuery plugin to create bootstrap modals in pure JavaScript. [Live Demo](https://www.jqueryscript.net/demo/Dynamic-Bootstrap-4-Modals)
+- [extended-carousel-bs5](https://github.com/crpozo/extended-carousel-bs5) - Extended carousel based on Bootstrap 5 using only vanilla js. [Live Demo](https://www.cssscript.com/demo/extended-bootstrap-5-carousel)
 
 ## UI Kits
 
