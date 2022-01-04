@@ -76,6 +76,7 @@
 - [bootstrap-show-modal](https://github.com/shaack/bootstrap-show-modal) - jQuery plugin to create bootstrap modals in pure JavaScript. [Live Demo](https://www.jqueryscript.net/demo/Dynamic-Bootstrap-4-Modals)
 - [extended-carousel-bs5](https://github.com/crpozo/extended-carousel-bs5) - Extended carousel based on Bootstrap 5 using only vanilla js. [Live Demo](https://www.cssscript.com/demo/extended-bootstrap-5-carousel)
 - [bs5-toast](https://github.com/jarstone/bs5-toast) - Bootstrap 5 toasts generator.
+- [Bootstrap-Lightbox](https://github.com/avalon-studio/Bootstrap-Lightbox) - Simple & lightweight lightbox for Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/image-lightbox-bootstrap-5)
 
 ## UI Kits
 
