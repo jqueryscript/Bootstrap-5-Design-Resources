@@ -77,6 +77,7 @@
 - [extended-carousel-bs5](https://github.com/crpozo/extended-carousel-bs5) - Extended carousel based on Bootstrap 5 using only vanilla js. [Live Demo](https://www.cssscript.com/demo/extended-bootstrap-5-carousel)
 - [bs5-toast](https://github.com/jarstone/bs5-toast) - Bootstrap 5 toasts generator.
 - [Bootstrap-Lightbox](https://github.com/avalon-studio/Bootstrap-Lightbox) - Simple & lightweight lightbox for Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/image-lightbox-bootstrap-5)
+- [Vanilla Wizard](https://github.com/coderthemes/vanilla-wizard) - Interactive Wizard UI Using Bootstrap 5 Tabs Component. [Live Demo](https://www.cssscript.com/demo/interactive-wizard-bootstrap-5)
 
 ## UI Kits
 
