@@ -80,6 +80,7 @@
 - [Vanilla Wizard](https://github.com/coderthemes/vanilla-wizard) - Interactive Wizard UI Using Bootstrap 5 Tabs Component. [Live Demo](https://www.cssscript.com/demo/interactive-wizard-bootstrap-5)
 - [scrollable-tabs-bootstrap-5](https://github.com/SupernovaIC/scrollable-tabs-bootstrap-5) - A simple plugin to create scrollable tabs with Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/scrolling-bootstrap-tabs)
 - [accordion-bs5](https://github.com/hiltonmuccillo/accordion-bs5) - Overlay Accordion Menu For Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/overlay-accordion-menu-bootstrap-5)
+- [Drawer-Style-Bootstrap-5-Modal](https://github.com/phyozawtun/Drawer-Style-Bootstrap-5-Modal) - Drawer Style Bootstrap 5 Modal. [Live Demo](https://www.cssscript.com/demo/bootstrap-5-modals-drawers)
 
 ## UI Kits
 
