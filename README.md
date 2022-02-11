@@ -82,6 +82,8 @@
 - [accordion-bs5](https://github.com/hiltonmuccillo/accordion-bs5) - Overlay Accordion Menu For Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/overlay-accordion-menu-bootstrap-5)
 - [Drawer-Style-Bootstrap-5-Modal](https://github.com/phyozawtun/Drawer-Style-Bootstrap-5-Modal) - Drawer Style Bootstrap 5 Modal. [Live Demo](https://www.cssscript.com/demo/bootstrap-5-modals-drawers)
 - [carousel](https://github.com/Sachin-U-Krishna/carousel) - Bootstrap 5 customizable multi item carousel. [Live Demo](https://www.jqueryscript.net/demo/multi-item-carousel-bootstrap)
+- [BootstrapAlert](https://github.com/Sachin-U-Krishna/carousel) - jQuery plugin for alerts creation based on Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/notification-bar-bootstrap-5-alerts)
+- [BootstrapForm](https://github.com/Fedec96/jquery-bootstrap-form-plugin) - jQuery plugin for form elements manipulation based on Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/manipulation-bootstrap-5)
 
 ## UI Kits
 
