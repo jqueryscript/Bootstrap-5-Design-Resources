@@ -84,6 +84,7 @@
 - [carousel](https://github.com/Sachin-U-Krishna/carousel) - Bootstrap 5 customizable multi item carousel. [Live Demo](https://www.jqueryscript.net/demo/multi-item-carousel-bootstrap)
 - [BootstrapAlert](https://github.com/Sachin-U-Krishna/carousel) - jQuery plugin for alerts creation based on Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/notification-bar-bootstrap-5-alerts)
 - [BootstrapForm](https://github.com/Fedec96/jquery-bootstrap-form-plugin) - jQuery plugin for form elements manipulation based on Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/manipulation-bootstrap-5)
+- [Bootstrap 5 Vertical Carousel](https://github.com/luvaihassanali/bootstrap-5-vertical-carousel) - Bootstrap 5 Vertical Carousel.
 
 ## UI Kits
 
