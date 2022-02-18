@@ -109,6 +109,7 @@
 - [Avni](https://github.com/ajkr195/Avni) - Bootstrap 5 Admin Template. [Live Demo](https://www.cssscript.com/demo/bootstrap-5-admin-template-avni)
 - [Adminator](https://github.com/puikinsh/Adminator-admin-dashboard) - Easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more.
 - [Dash-UI](https://github.com/codescandy/Dash-UI) - A free and open source components and templates kit for dashboard.
+- [Sneat Free Bootstrap Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - Open-source & Easy to use Free Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
 
 ## Libraries
 
