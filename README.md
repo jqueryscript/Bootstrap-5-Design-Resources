@@ -117,9 +117,6 @@
 - [bootstrap-ie11](https://github.com/coliff/bootstrap-ie11) - CSS & JS polyfills for Internet Explorer 11 compatibility.
 - [bootstrap-print-css](https://github.com/coliff/bootstrap-print-css) - Print Stylesheet for Bootstrap 5.
 
-## Themes
-
-- [bootstrap-5-dark-mode](https://github.com/xcartmods/bootstrap-5-dark-mode) - Dark Mode (Theme) for Bootstrap 5.
 
 ## Miscellaneous 
 - [bootstrap5-cheatsheet](https://github.com/themeselection/bootstrap5-cheatsheet) - The ultimate cheatsheet for Bootstrap 5.
