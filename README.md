@@ -85,6 +85,7 @@
 - [BootstrapAlert](https://github.com/Sachin-U-Krishna/carousel) - jQuery plugin for alerts creation based on Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/notification-bar-bootstrap-5-alerts)
 - [BootstrapForm](https://github.com/Fedec96/jquery-bootstrap-form-plugin) - jQuery plugin for form elements manipulation based on Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/manipulation-bootstrap-5)
 - [Bootstrap 5 Vertical Carousel](https://github.com/luvaihassanali/bootstrap-5-vertical-carousel) - Bootstrap 5 Vertical Carousel.
+- [Exit Intent Popup](https://github.com/vehac/exit_intent_popup) - A custom Exit Intent Popup based on Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/exit-intent-popup-mobile)
 
 ## UI Kits
 
