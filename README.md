@@ -86,6 +86,7 @@
 - [BootstrapForm](https://github.com/Fedec96/jquery-bootstrap-form-plugin) - jQuery plugin for form elements manipulation based on Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/manipulation-bootstrap-5)
 - [Bootstrap 5 Vertical Carousel](https://github.com/luvaihassanali/bootstrap-5-vertical-carousel) - Bootstrap 5 Vertical Carousel.
 - [Exit Intent Popup](https://github.com/vehac/exit_intent_popup) - A custom Exit Intent Popup based on Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/exit-intent-popup-mobile)
+- [nested modals](https://github.com/KajPe/bootstrapmodal) - Create nested Bootstrap 5 modal windows by using JavaScript. [Live Demo](https://www.cssscript.com/demo/nested-bootstrap-5-modal/)
 
 ## UI Kits
 
