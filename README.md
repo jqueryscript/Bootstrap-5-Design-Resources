@@ -87,6 +87,8 @@
 - [Bootstrap 5 Vertical Carousel](https://github.com/luvaihassanali/bootstrap-5-vertical-carousel) - Bootstrap 5 Vertical Carousel.
 - [Exit Intent Popup](https://github.com/vehac/exit_intent_popup) - A custom Exit Intent Popup based on Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/exit-intent-popup-mobile)
 - [nested modals](https://github.com/KajPe/bootstrapmodal) - Create nested Bootstrap 5 modal windows by using JavaScript. [Live Demo](https://www.cssscript.com/demo/nested-bootstrap-5-modal/)
+- [Bootstrap Select](https://github.com/snapappointments/bootstrap-select) - The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more. [Live Demo](https://www.jqueryscript.net/demo/jQuery-Plugin-For-Filterable-Bootstrap-Dropdown-Select-Bootstrap-Select/)
+- [bhDropdownSelect](https://github.com/behai-nguyen/jquery-bhdropdownselect) - A jQuery plugin: multi-column dropdown select using latest Bootstrap dialog. [Live Demo](https://www.jqueryscript.net/demo/multi-column-dropdown-select-bootstrap)
 
 ## UI Kits
 
