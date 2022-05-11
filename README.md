@@ -98,6 +98,7 @@
 - [Free Figma Bootstrap 5 UI Kit](https://github.com/themeselection/free-figma-bootstrap-ui-kit) - Figma Bootstrap UI Kit comprising of 300+ organized Bootstrap 5 components built with atomic design system & auto layout. Kick start your next Figma project in no time.
 - [coreui](https://github.com/coreui/coreui) - Open Source UI Kit built on top of Bootstrap 5 and plain JavaScript.
 - [Bootstrap 5 Design System](https://www.figma.com/community/file/1044316192441037087) - A Perfect Design System for Bootstrap 5+ Series.
+- [Bootstrap v5 Theme Kit](https://github.com/MuriungiPatrick/Bootstrap-5-Theming-Kit) - A starter project for making Bootstrap 5 themes with Sass.
 
 ## Templates
 
