@@ -117,6 +117,7 @@
 - [Adminator](https://github.com/puikinsh/Adminator-admin-dashboard) - Easy to use and well design admin dashboard template based on Bootstrap 5 for web apps, websites, services and more.
 - [Dash-UI](https://github.com/codescandy/Dash-UI) - A free and open source components and templates kit for dashboard.
 - [Sneat Free Bootstrap Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - Open-source & Easy to use Free Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
+- [Atrana Dashboard](https://github.com/atranathemes/Atrana) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page.
 
 ## Libraries
 
