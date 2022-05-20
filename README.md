@@ -90,7 +90,7 @@
 - [Bootstrap Select](https://github.com/snapappointments/bootstrap-select) - The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more. [Live Demo](https://www.jqueryscript.net/demo/jQuery-Plugin-For-Filterable-Bootstrap-Dropdown-Select-Bootstrap-Select/)
 - [bhDropdownSelect](https://github.com/behai-nguyen/jquery-bhdropdownselect) - A jQuery plugin: multi-column dropdown select using latest Bootstrap dialog. [Live Demo](https://www.jqueryscript.net/demo/multi-column-dropdown-select-bootstrap)
 - [bootstrapicon-iconpicker](https://github.com/pixel-s-lab/bootstrapicon-iconpicker) - Bootstrap Icon Picker component for Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-icon-picker)
-- [vertical-carousel]([https://github.com/pixel-s-lab/bootstrapicon-iconpicker](https://github.com/alessandrobattaglia/vertical-carousel)) - Vertical Carousel for Bootstrap 5. [Live Demo]([https://www.jqueryscript.net/demo/bootstrap-icon-picker](https://www.cssscript.com/demo/vertical-carousel-bootstrap))
+- [vertical-carousel](https://github.com/pixel-s-lab/bootstrapicon-iconpicker) - Vertical Carousel for Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-icon-picker)
 
 ## UI Kits
 
