@@ -95,6 +95,7 @@
 - [Off-canvas Accordion Menu](https://github.com/hiltonmuccillo/accordion-bs5) - An off-canvas sidebar navigation with an accordion menu, made with Bootstrap 5 or Bootstrap 4 framework. [Live Demo](https://www.cssscript.com/demo/off-canvas-accordion-menu-bootstrap)
 - [Bootstrap Mobile Tables](https://github.com/benjamin-Keller/bootstrap-mobile-tables) - Responsive Table For Bootstrap 5 Framework. [Live Demo](https://www.cssscript.com/demo/responsive-table-bootstrap)
 - [Bootstrap5 Notify](https://github.com/vuatintac/bootstrap5-notify) - A simple plugin that turns standard Bootstrap 5 alerts into "Growl-like" notifications. [Live Demo](https://www.jqueryscript.net/demo/growl-notification-bootstrap-alert)
+- [bs-darkmode](https://github.com/palcarazm/bs-darkmode) - A bootstrap plugin/widget that supports toggling between light and dark theme. [Live Demo](https://www.jqueryscript.net/demo/dark-mode-toggle-bootstrap)
 
 ## UI Kits
 
