@@ -98,6 +98,7 @@
 - [bs-darkmode](https://github.com/palcarazm/bs-darkmode) - A bootstrap plugin/widget that supports toggling between light and dark theme. [Live Demo](https://www.jqueryscript.net/demo/dark-mode-toggle-bootstrap)
 - [bootstrap-5-vertical-tabs-responsive](https://github.com/medhirajsharma/bootstrap-5-vertical-tabs-responsive) - Bootstrap 5 vertical tabs responsive. [Live Demo](https://www.jqueryscript.net/demo/responsive-vertical-bootstrap-tabs-pills)
 - [jquery-bootstrap-autofill](https://github.com/Mazeakin/jquery-bootstrap-autofill) - A (very) simple jQuery + Bootstrap autocomplete plugin, using Boostrap Dropdowns. [Live Demo](https://www.jqueryscript.net/demo/autocomplete-bootstrap-autofill)
+- [input-numspin](https://github.com/codiewebs/input-numspin) - A Pure javascript input spin plugin. [Live Demo](https://www.cssscript.com/demo/input-spinner-number)
 
 ## UI Kits
 
