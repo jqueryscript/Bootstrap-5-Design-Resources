@@ -99,6 +99,7 @@
 - [bootstrap-5-vertical-tabs-responsive](https://github.com/medhirajsharma/bootstrap-5-vertical-tabs-responsive) - Bootstrap 5 vertical tabs responsive. [Live Demo](https://www.jqueryscript.net/demo/responsive-vertical-bootstrap-tabs-pills)
 - [jquery-bootstrap-autofill](https://github.com/Mazeakin/jquery-bootstrap-autofill) - A (very) simple jQuery + Bootstrap autocomplete plugin, using Boostrap Dropdowns. [Live Demo](https://www.jqueryscript.net/demo/autocomplete-bootstrap-autofill)
 - [input-numspin](https://github.com/codiewebs/input-numspin) - A Pure javascript input spin plugin. [Live Demo](https://www.cssscript.com/demo/input-spinner-number)
+- [bootstrap-multi-steps-component](https://github.com/manuelernestog/bootstrap-multi-steps-component) - Multi Steps Form Component for Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/multi-step-form-bootstrap-component)
 
 ## UI Kits
 
