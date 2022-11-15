@@ -103,6 +103,7 @@
 - [bootstrap-off-canvas](https://github.com/takaneichinose/bootstrap-off-canvas) - Just a simple implementation of off canvas on Bootstrap 5/4. [Live Demo](https://www.jqueryscript.net/demo/offcanvas-push-menu-bootstrap)
 - [bsSelectDrop](https://github.com/ThomasDev-de/jquery-bsSelectDrop) - Converts a select into a dropdown. [Live Demo](https://www.jqueryscript.net/demo/advanced-dropdown-select-bootstrap)
 - [bootstrap5-autocomplete](https://github.com/lekoala/bootstrap5-autocomplete) - Autocomplete for Bootstrap 5 (and 4!). [Live Demo](https://www.jqueryscript.net/demo/smart-autocomplete-bootstrap)
+- [bootstrap5FileUploadField](https://github.com/jqueryscript/bootstrap5FileUploadField) - File Input Field for Bootstrap 5.x. [Live Demo](https://www.jqueryscript.net/demo/customize-bootstrap-file-field/)
 
 ## UI Kits
 
