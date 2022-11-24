@@ -104,7 +104,7 @@
 - [bsSelectDrop](https://github.com/ThomasDev-de/jquery-bsSelectDrop) - Converts a select into a dropdown. [Live Demo](https://www.jqueryscript.net/demo/advanced-dropdown-select-bootstrap)
 - [bootstrap5-autocomplete](https://github.com/lekoala/bootstrap5-autocomplete) - Autocomplete for Bootstrap 5 (and 4!). [Live Demo](https://www.jqueryscript.net/demo/smart-autocomplete-bootstrap)
 - [bootstrap5FileUploadField](https://github.com/jqueryscript/bootstrap5FileUploadField) - File Input Field for Bootstrap 5.x. [Live Demo](https://www.jqueryscript.net/demo/customize-bootstrap-file-field/)
-- [bootstrap5FileUploadField](https://github.com/More-Than-Solitaire/bootstrap-tag-input) - A simple, easy-to-use library for creating tabs (or chips) as a multi-entry input option. This library uses Bootstrap 5, and integrates nicely with Bootstrap code. No jQuery needed!. [Live Demo](https://www.cssscript.com/demo/easy-tags-input-bootstrap)
+- [bootstrap-tag-input](https://github.com/More-Than-Solitaire/bootstrap-tag-input) - A simple, easy-to-use library for creating tabs (or chips) as a multi-entry input option. This library uses Bootstrap 5, and integrates nicely with Bootstrap code. No jQuery needed!. [Live Demo](https://www.cssscript.com/demo/easy-tags-input-bootstrap)
 
 ## UI Kits
 
