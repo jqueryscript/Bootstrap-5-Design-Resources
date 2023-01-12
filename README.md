@@ -107,6 +107,7 @@
 - [bootstrap-tag-input](https://github.com/More-Than-Solitaire/bootstrap-tag-input) - A simple, easy-to-use library for creating tabs (or chips) as a multi-entry input option. This library uses Bootstrap 5, and integrates nicely with Bootstrap code. No jQuery needed!. [Live Demo](https://www.cssscript.com/demo/easy-tags-input-bootstrap)
 - [bootbox](https://github.com/makeusabrew/bootbox) - Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework. [Live Demo](https://www.jqueryscript.net/demo/jQuery-Dialog-Boxes-Plugin-for-Bootstrap-Bootbox/)
 - [b5toast](https://github.com/AucT/b5toast) - Javascript function to create and show bootstrap 5 toasts. [Live Demo](https://www.cssscript.com/demo/dynamic-bootstrap-5-toasts)
+- [bs-calendar](https://github.com/ThomasDev-de/jquery-bs-calendar) - Event calendar was created with JQuery and Boostrap 5. [Live Demo](https://www.jqueryscript.net/demo/event-calendar-bootstrap)
 
 ## UI Kits
 
