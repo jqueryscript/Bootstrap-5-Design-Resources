@@ -108,6 +108,7 @@
 - [bootbox](https://github.com/makeusabrew/bootbox) - Wrappers for JavaScript alert(), confirm() and other flexible dialogs using Twitter's bootstrap framework. [Live Demo](https://www.jqueryscript.net/demo/jQuery-Dialog-Boxes-Plugin-for-Bootstrap-Bootbox/)
 - [b5toast](https://github.com/AucT/b5toast) - Javascript function to create and show bootstrap 5 toasts. [Live Demo](https://www.cssscript.com/demo/dynamic-bootstrap-5-toasts)
 - [bs-calendar](https://github.com/ThomasDev-de/jquery-bs-calendar) - Event calendar was created with JQuery and Boostrap 5. [Live Demo](https://www.jqueryscript.net/demo/event-calendar-bootstrap)
+- [bsValidate](https://github.com/aaronchen/bsValidate) - jQuery, Bootstrap, Form Validation. [Live Demo](https://www.jqueryscript.net/demo/form-validator-bootstrap-bsvalidate)
 
 ## UI Kits
 
