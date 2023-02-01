@@ -109,6 +109,7 @@
 - [b5toast](https://github.com/AucT/b5toast) - Javascript function to create and show bootstrap 5 toasts. [Live Demo](https://www.cssscript.com/demo/dynamic-bootstrap-5-toasts)
 - [bs-calendar](https://github.com/ThomasDev-de/jquery-bs-calendar) - Event calendar was created with JQuery and Boostrap 5. [Live Demo](https://www.jqueryscript.net/demo/event-calendar-bootstrap)
 - [bsValidate](https://github.com/aaronchen/bsValidate) - jQuery, Bootstrap, Form Validation. [Live Demo](https://www.jqueryscript.net/demo/form-validator-bootstrap-bsvalidate)
+- [bootstrap-form-wizard](https://github.com/xonipatino/bootstrap-form-wizard) - Form wizard for Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/easy-form-wizard-bootstrap)
 
 ## UI Kits
 
