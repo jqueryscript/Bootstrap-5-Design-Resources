@@ -110,7 +110,20 @@
 - [bs-calendar](https://github.com/ThomasDev-de/jquery-bs-calendar) - Event calendar was created with JQuery and Boostrap 5. [Live Demo](https://www.jqueryscript.net/demo/event-calendar-bootstrap)
 - [bsValidate](https://github.com/aaronchen/bsValidate) - jQuery, Bootstrap, Form Validation. [Live Demo](https://www.jqueryscript.net/demo/form-validator-bootstrap-bsvalidate)
 - [bootstrap-form-wizard](https://github.com/xonipatino/bootstrap-form-wizard) - Form wizard for Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/easy-form-wizard-bootstrap)
-- [dilarauluturhan](https://github.com/dilarauluturhan/calendar) - HTML, CSS, Bootstrap 5, JavaScript Calendar. [Live Demo](https://www.cssscript.com/demo/bootstrap-calendar-dark-mode)
+- [calendar](https://github.com/dilarauluturhan/calendar) - HTML, CSS, Bootstrap 5, JavaScript Calendar. [Live Demo](https://www.cssscript.com/demo/bootstrap-calendar-dark-mode)
+- [bootstrap-duration-picker](https://github.com/jqueryscript/bootstrap-duration-picker) - Bootstrap Duration picker. [Live Demo](https://www.jqueryscript.net/demo/Minimal-Duration-Picker-Plugin-For-jQuery-Bootstrap)
+- [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - A datepicker for Twitter Bootstrap 5/4/3. [Live Demo](https://www.jqueryscript.net/demo/Configurable-Date-Picker-Plugin-For-Bootstrap)
+- [bs-select.js](https://github.com/ThomasDev-de/bs-select) - Create Enhanced Bootstrap 5 Select Input With bs-select.js. [Live Demo](https://www.jqueryscript.net/demo/enhanced-bootstrap-select)
+- [bootstrap-auto-dark-mode](https://github.com/shaack/bootstrap-auto-dark-mode) - Implement Automatic Dark Mode In Bootstrap 5 With JS. [Live Demo](https://www.cssscript.com/demo/automatic-dark-mode-bootstrap)
+- [cookieAlert.js](https://github.com/Wruczek/Bootstrap-Cookie-Alert) - Cookie Consent Notice Plugin For Bootstrap 5/4. [Live Demo](https://github.com/Wruczek/Bootstrap-Cookie-Alert)
+- [Menu Editor](https://github.com/davicotico/jQuery-Menu-Editor) - Multilevel Menu Editor for Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/Drag-Drop-Menu-Builder-For-Bootstrap)
+- [use-bootstrap-select](https://github.com/use-bootstrap/use-bootstrap-select) - Advanced Select Boxes For Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/advanced-bootstrap-dropdown)
+- [use-bootstrap-tag](https://github.com/use-bootstrap/use-bootstrap-tag) - Customizable Tag/Chip Style Inputs For Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/use-bootstrap-tag-input)
+- [Bootstrap Breakpoint](https://github.com/CodelineRed/bootstrap-breakpoint) - Tailor your JS functions to screen sizes with the Bootstrap Breakpoint library. [Live Demo](https://www.cssscript.com/demo/execute-functions-bootstrap-breakpoint)
+- [Bootstrap Form Validation](https://github.com/RobertGrubb/bootstrap-form-validation) - A lightweight jQuery plugin provides an easy way to implement client-side form validation in your latest Bootstrap projects. [Live Demo](https://www.jqueryscript.net/demo/validate-bootstrap-fields-snap)
+- [jquery-bs-confirm](https://github.com/ThomasDev-de/jquery-bs-confirm) - Creates a confirmation dialog using the Bootstrap modal. [Live Demo](https://www.jqueryscript.net/demo/bs-confirm-popup)
+- [simple-notif.js](https://github.com/medigital-dev/simple-notif) - Easy Toast Notifications In Bootstrap 5 - jQuery simple-notif.js. [Live Demo](https://www.jqueryscript.net/demo/easy-toast-notification-bootstrap)
+- [jquery-bs-circle-progress](https://github.com/ThomasDev-de/jquery-bs-circle-progress) - Create Slick Animated Circular Progress Bars with jQuery & Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/circle-progress-bootstrap)
 
 ## UI Kits
 
