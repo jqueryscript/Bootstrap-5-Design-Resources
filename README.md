@@ -124,6 +124,7 @@
 - [jquery-bs-confirm](https://github.com/ThomasDev-de/jquery-bs-confirm) - Creates a confirmation dialog using the Bootstrap modal. [Live Demo](https://www.jqueryscript.net/demo/bs-confirm-popup)
 - [simple-notif.js](https://github.com/medigital-dev/simple-notif) - Easy Toast Notifications In Bootstrap 5 - jQuery simple-notif.js. [Live Demo](https://www.jqueryscript.net/demo/easy-toast-notification-bootstrap)
 - [jquery-bs-circle-progress](https://github.com/ThomasDev-de/jquery-bs-circle-progress) - Create Slick Animated Circular Progress Bars with jQuery & Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/circle-progress-bootstrap)
+- [bootstrap-detect-breakpoint](https://github.com/shaack/bootstrap-detect-breakpoint) - Detect the current Bootstrap breakpoint in JavaScript. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-detect-breakpoint)
 
 ## UI Kits
 
