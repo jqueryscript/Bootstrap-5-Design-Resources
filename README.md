@@ -126,6 +126,7 @@
 - [jquery-bs-circle-progress](https://github.com/ThomasDev-de/jquery-bs-circle-progress) - Create Slick Animated Circular Progress Bars with jQuery & Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/circle-progress-bootstrap)
 - [bootstrap-detect-breakpoint](https://github.com/shaack/bootstrap-detect-breakpoint) - Detect the current Bootstrap breakpoint in JavaScript. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-detect-breakpoint)
 - [bootstrap-show-password](https://github.com/wenzhixin/bootstrap-show-password) - Show/hide password plugin for twitter bootstrap. [Live Demo](https://www.jqueryscript.net/demo/Show-Hide-Password-Field-Text-with-jQuery-Bootstrap)
+- [avalynx-alert](https://github.com/avalynx/avalynx-alert) - A simple alert system for web applications. Based on Bootstrap >=5.3 without any framework dependencies. [Live Demo](https://www.cssscript.com/demo/alert-notification-bootstrap)
 
 ## UI Kits
 
