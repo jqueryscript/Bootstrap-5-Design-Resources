@@ -166,4 +166,5 @@
 - [bootstrap5-cheatsheet](https://github.com/themeselection/bootstrap5-cheatsheet) - The ultimate cheatsheet for Bootstrap 5.
 - [ST-BootstrapAutocomplete](https://github.com/jfcherng-sublime/ST-BootstrapAutocomplete) - Sublime Text 4 plugin for Bootstrap class name autocompletion.
 - [bootstrap-dark-5](https://github.com/vinorodrigues/bootstrap-dark-5) - The Ancillary Guide to Dark Mode and Bootstrap 5
+- [VvvebJs](https://github.com/givanz/VvvebJs) - Online Webpage Builder With Bootstrap 5. [Live Demo](https://www.vvveb.com/vvvebjs/editor.html)
 - [Best JavaScript & CSS Components For Bootstrap 5](https://www.jqueryscript.net/blog/best-bootstrap-5-component-extension.html) - 10 best and most downloaded JavaScript/CSS libraries that provide additional and enhanced components missing from the latest Bootstrap 5 framework but necessary for modern web development.
