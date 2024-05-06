@@ -127,6 +127,7 @@
 - [bootstrap-detect-breakpoint](https://github.com/shaack/bootstrap-detect-breakpoint) - Detect the current Bootstrap breakpoint in JavaScript. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-detect-breakpoint)
 - [bootstrap-show-password](https://github.com/wenzhixin/bootstrap-show-password) - Show/hide password plugin for twitter bootstrap. [Live Demo](https://www.jqueryscript.net/demo/Show-Hide-Password-Field-Text-with-jQuery-Bootstrap)
 - [avalynx-alert](https://github.com/avalynx/avalynx-alert) - A simple alert system for web applications. Based on Bootstrap >=5.3 without any framework dependencies. [Live Demo](https://www.cssscript.com/demo/alert-notification-bootstrap)
+- [use-bootstrap-toaster](https://github.com/use-bootstrap/use-bootstrap-toaster) - Bootstrap toast generator. [Live Demo](https://www.cssscript.com/demo/toast-notification-manager-bootstrap)
 
 ## UI Kits
 
