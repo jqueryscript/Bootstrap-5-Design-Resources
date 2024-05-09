@@ -128,6 +128,7 @@
 - [bootstrap-show-password](https://github.com/wenzhixin/bootstrap-show-password) - Show/hide password plugin for twitter bootstrap. [Live Demo](https://www.jqueryscript.net/demo/Show-Hide-Password-Field-Text-with-jQuery-Bootstrap)
 - [avalynx-alert](https://github.com/avalynx/avalynx-alert) - A simple alert system for web applications. Based on Bootstrap >=5.3 without any framework dependencies. [Live Demo](https://www.cssscript.com/demo/alert-notification-bootstrap)
 - [use-bootstrap-toaster](https://github.com/use-bootstrap/use-bootstrap-toaster) - Bootstrap toast generator. [Live Demo](https://www.cssscript.com/demo/toast-notification-manager-bootstrap)
+- [Bootstrap Confirmation Modal](https://github.com/dday9/Bootstrap-Input-Modal) - A simple solution for displaying and handling Bootstrap input modals on the fly. [Live Demo](https://www.jqueryscript.net/lightbox/bootstrap-confirmation-prompt-modal.html)
 
 ## UI Kits
 
