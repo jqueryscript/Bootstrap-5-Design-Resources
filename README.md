@@ -130,6 +130,7 @@
 - [use-bootstrap-toaster](https://github.com/use-bootstrap/use-bootstrap-toaster) - Bootstrap toast generator. [Live Demo](https://www.cssscript.com/demo/toast-notification-manager-bootstrap)
 - [Bootstrap Confirmation Modal](https://github.com/dday9/Bootstrap-Input-Modal) - A simple solution for displaying and handling Bootstrap input modals on the fly. [Live Demo](https://www.jqueryscript.net/lightbox/bootstrap-confirmation-prompt-modal.html)
 - [Clean Alert](https://github.com/felipetr/cleanalertvanilla) - A JavaScript plugin designed to create customizable, user-friendly alert dialogs within Bootstrap 5 projects. [Live Demo](https://www.cssscript.com/demo/alert-modal-bootstrap/)
+- [avalynx-loader](https://github.com/avalynx/avalynx-loader) - A lightweight JavaScript library designed to provide a loading overlay for DOM elements.  [Live Demo](https://www.cssscript.com/demo/loading-overlay-bootstrap/)
 
 ## UI Kits
 
