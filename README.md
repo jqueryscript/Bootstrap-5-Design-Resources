@@ -132,6 +132,7 @@
 - [Clean Alert](https://github.com/felipetr/cleanalertvanilla) - A JavaScript plugin designed to create customizable, user-friendly alert dialogs within Bootstrap 5 projects. [Live Demo](https://www.cssscript.com/demo/alert-modal-bootstrap/)
 - [avalynx-loader](https://github.com/avalynx/avalynx-loader) - A lightweight JavaScript library designed to provide a loading overlay for DOM elements.  [Live Demo](https://www.cssscript.com/demo/loading-overlay-bootstrap/)
 - [AvalynxModal](https://github.com/avalynx/avalynx-modal) - A JavaScript plugin for creating highly customizable modal windows with fullscreen (minimize/maximize windows) support.  [Live Demo](https://www.cssscript.com/demo/avalynx-modal-bootstrap/)
+- [AvalynxSelect](https://github.com/avalynx/avalynx-select) - A JavaScript plugin that enhances Bootstrap 5 selects with live search, scrolling, and customization.  [Live Demo](https://www.cssscript.com/demo/bootstrap-dropdown-avalynx-select)
 
 ## UI Kits
 
