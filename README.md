@@ -134,6 +134,8 @@
 - [AvalynxModal](https://github.com/avalynx/avalynx-modal) - A JavaScript plugin for creating highly customizable modal windows with fullscreen (minimize/maximize windows) support.  [Live Demo](https://www.cssscript.com/demo/avalynx-modal-bootstrap/)
 - [AvalynxSelect](https://github.com/avalynx/avalynx-select) - A JavaScript plugin that enhances Bootstrap 5 selects with live search, scrolling, and customization.  [Live Demo](https://www.cssscript.com/demo/bootstrap-dropdown-avalynx-select)
 - [Silderable](https://github.com/Rayiumir/Silderable) - Simple and Lightweight Multi Item Carousel Library for Bootstrap 5/4.  [Live Demo](https://www.jqueryscript.net/demo/carousel-bootstrap-silderable)
+- [Stacked-bsAlert](https://github.com/badursun/Stacked-bsAlert) - A jQuery plugin that stacks multiple Bootstrap alerts into a neat, visually appealing format with configurable options.  [Live Demo](https://www.jqueryscript.net/demo/stacked-alerts-bootstrap)
+- [bs-toast.js](https://github.com/ThomasDev-de/bs-toast) - This small plugin handles the implementation of bootstrap toast element.  [Live Demo](https://www.jqueryscript.net/demo/dynamic-bootstrap-toasts-creation)
 
 ## UI Kits
 
