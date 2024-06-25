@@ -136,6 +136,7 @@
 - [Silderable](https://github.com/Rayiumir/Silderable) - Simple and Lightweight Multi Item Carousel Library for Bootstrap 5/4.  [Live Demo](https://www.jqueryscript.net/demo/carousel-bootstrap-silderable)
 - [Stacked-bsAlert](https://github.com/badursun/Stacked-bsAlert) - A jQuery plugin that stacks multiple Bootstrap alerts into a neat, visually appealing format with configurable options.  [Live Demo](https://www.jqueryscript.net/demo/stacked-alerts-bootstrap)
 - [bs-toast.js](https://github.com/ThomasDev-de/bs-toast) - This small plugin handles the implementation of bootstrap toast element.  [Live Demo](https://www.jqueryscript.net/demo/dynamic-bootstrap-toasts-creation)
+- [use-bootstrap-dialog](https://github.com/use-bootstrap/use-bootstrap-dialog) - A JavaScript library for generating dialogs using Bootstrap modals.  [Live Demo](https://www.cssscript.com/demo/use-bootstrap-dialog/)
 
 ## UI Kits
 
