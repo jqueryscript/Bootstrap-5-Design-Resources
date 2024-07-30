@@ -138,6 +138,7 @@
 - [bs-toast.js](https://github.com/ThomasDev-de/bs-toast) - This small plugin handles the implementation of bootstrap toast element.  [Live Demo](https://www.jqueryscript.net/demo/dynamic-bootstrap-toasts-creation)
 - [use-bootstrap-dialog](https://github.com/use-bootstrap/use-bootstrap-dialog) - A JavaScript library for generating dialogs using Bootstrap modals.  [Live Demo](https://www.cssscript.com/demo/use-bootstrap-dialog/)
 - [bootstrap-forced-colors-css](https://github.com/coliff/bootstrap-forced-colors-css) - Improves the accessibility of Bootstrap 5 for Windows users using High Contrast themes.  [Live Demo](https://www.cssscript.com/demo/bootstrap-forced-colors-windows)
+- [bs-breakpoints](https://github.com/Johann-S/bs-breakpoints) - A plugin which detect Bootstrap 5 breakpoints and emit when there is a change.  [Live Demo](https://www.jqueryscript.net/demo/Detect-Bootstrap-4-Breakpoints/)
 
 ## UI Kits
 
