@@ -139,6 +139,7 @@
 - [use-bootstrap-dialog](https://github.com/use-bootstrap/use-bootstrap-dialog) - A JavaScript library for generating dialogs using Bootstrap modals.  [Live Demo](https://www.cssscript.com/demo/use-bootstrap-dialog/)
 - [bootstrap-forced-colors-css](https://github.com/coliff/bootstrap-forced-colors-css) - Improves the accessibility of Bootstrap 5 for Windows users using High Contrast themes.  [Live Demo](https://www.cssscript.com/demo/bootstrap-forced-colors-windows)
 - [bs-breakpoints](https://github.com/Johann-S/bs-breakpoints) - A plugin which detect Bootstrap 5 breakpoints and emit when there is a change.  [Live Demo](https://www.jqueryscript.net/demo/Detect-Bootstrap-4-Breakpoints/)
+- [Bootstrap Toaster](https://github.com/osalabs/bootstrap-toaster) - A lightweight and customizable toast notification library built on top of Bootstrap 5.  [Live Demo](https://www.cssscript.com/demo/stackable-bootstrap-toaster)
 
 ## UI Kits
 
