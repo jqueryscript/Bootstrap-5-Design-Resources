@@ -141,6 +141,7 @@
 - [bs-breakpoints](https://github.com/Johann-S/bs-breakpoints) - A plugin which detect Bootstrap 5 breakpoints and emit when there is a change.  [Live Demo](https://www.jqueryscript.net/demo/Detect-Bootstrap-4-Breakpoints/)
 - [Bootstrap Toaster](https://github.com/osalabs/bootstrap-toaster) - A lightweight and customizable toast notification library built on top of Bootstrap 5.  [Live Demo](https://www.cssscript.com/demo/stackable-bootstrap-toaster)
 - [raygrid](https://github.com/GrumpyCockatiel/raytools) - A very simple lightweight JS Data Grid table that just uses Bootstrap 5.  [Live Demo](https://www.jqueryscript.net/demo/Data-Table-Plugin-Bootstrap-jQuery-Raytable)
+- [Bootstrap Dark Mode Switch](https://github.com/404GamerNotFound/bootstrap-5.3-dark-mode-light-mode-switch) - A simple and effective way for users to switch between dark and light modes on a website..  [Live Demo](https://www.cssscript.com/demo/automatic-dark-mode-switch-bootstrap)
 
 ## UI Kits
 
