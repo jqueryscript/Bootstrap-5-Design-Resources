@@ -143,6 +143,7 @@
 - [raygrid](https://github.com/GrumpyCockatiel/raytools) - A very simple lightweight JS Data Grid table that just uses Bootstrap 5.  [Live Demo](https://www.jqueryscript.net/demo/Data-Table-Plugin-Bootstrap-jQuery-Raytable)
 - [Bootstrap Dark Mode Switch](https://github.com/404GamerNotFound/bootstrap-5.3-dark-mode-light-mode-switch) - A simple and effective way for users to switch between dark and light modes on a website.  [Live Demo](https://www.cssscript.com/demo/automatic-dark-mode-switch-bootstrap)
 - [fontpicker-v2](https://github.com/wipeautcrafter/fontpicker-v2) - A font picker component supporting Google and system fonts, powered by Bootstrap.  [Live Demo](https://www.cssscript.com/demo/bootstrap-font-picker-google-system)
+- [sticker-button](https://github.com/yepteam/sticker-button) - Sticker button with folded corner.  [Live Demo](https://www.cssscript.com/demo/folding-corner-bootstrap-button-sticker)
 
 ## UI Kits
 
