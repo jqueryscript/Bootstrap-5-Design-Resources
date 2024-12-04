@@ -145,6 +145,7 @@
 - [fontpicker-v2](https://github.com/wipeautcrafter/fontpicker-v2) - A font picker component supporting Google and system fonts, powered by Bootstrap.  [Live Demo](https://www.cssscript.com/demo/bootstrap-font-picker-google-system)
 - [sticker-button](https://github.com/yepteam/sticker-button) - Sticker button with folded corner.  [Live Demo](https://www.cssscript.com/demo/folding-corner-bootstrap-button-sticker)
 - [bsConfirm](https://github.com/tropotek/bsConfirm) - A jQuery plugin to handle basic Bootstrap confirmation.  [Live Demo](https://www.jqueryscript.net/demo/easy-confirmation-dialog-bootstrap)
+- [bootstrap-simple-admin-template](https://github.com/pro-dev-ph/bootstrap-simple-admin-template) - The most reliable HTML, CSS, and JavaScript-based admin template for creating responsive, mobile-first web applications with ease.  [Live Demo](https://pro-dev-ph.github.io/bootstrap-simple-admin-template/)
 
 ## UI Kits
 
