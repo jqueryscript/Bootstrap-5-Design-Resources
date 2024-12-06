@@ -146,6 +146,7 @@
 - [sticker-button](https://github.com/yepteam/sticker-button) - Sticker button with folded corner.  [Live Demo](https://www.cssscript.com/demo/folding-corner-bootstrap-button-sticker)
 - [bsConfirm](https://github.com/tropotek/bsConfirm) - A jQuery plugin to handle basic Bootstrap confirmation.  [Live Demo](https://www.jqueryscript.net/demo/easy-confirmation-dialog-bootstrap)
 - [bootstrap-simple-admin-template](https://github.com/pro-dev-ph/bootstrap-simple-admin-template) - The most reliable HTML, CSS, and JavaScript-based admin template for creating responsive, mobile-first web applications with ease.  [Live Demo](https://pro-dev-ph.github.io/bootstrap-simple-admin-template/)
+- [show-hide-password.js](https://github.com/openix/show-hide-password) - Show / Hide Password in form input type password element.  [Live Demo](https://www.jqueryscript.net/demo/reveal-hidden-password-bootstrap)
 
 ## UI Kits
 
