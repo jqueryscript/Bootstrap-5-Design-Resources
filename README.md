@@ -148,6 +148,9 @@
 - [bootstrap-simple-admin-template](https://github.com/pro-dev-ph/bootstrap-simple-admin-template) - The most reliable HTML, CSS, and JavaScript-based admin template for creating responsive, mobile-first web applications with ease.  [Live Demo](https://pro-dev-ph.github.io/bootstrap-simple-admin-template/)
 - [show-hide-password.js](https://github.com/openix/show-hide-password) - Show / Hide Password in form input type password element.  [Live Demo](https://www.jqueryscript.net/demo/reveal-hidden-password-bootstrap)
 - [Modal JS](https://www.cssscript.com/dynamic-nested-bootstrap-modal/) - Dynamic lightweight modal dialog written in vanilla JavaScript.  [Live Demo](https://www.cssscript.com/demo/dynamic-nested-bootstrap-modal)
+- [bootstrap-neobrutalism-icons](https://github.com/jaimepaezv/bootstrap-neobrutalism-icons) - Neobrutalist Bootstrap Buttons.  [Live Demo](https://www.cssscript.com/demo/neobrutalist-bootstrap-buttons)
+- [shadstrap](https://github.com/eugabrielsilva/shadstrap) - A CSS theme based on shadcn/ui look, with the benefits of Bootstrap utilities and FontAwesome icons.  [Live Demo](https://www.cssscript.com/demo/bootstrap-shadcn-ui-theme)
+- [bootstrap-responsive-tabs](https://github.com/InventPartners/bootstrap-responsive-tabs) - Responsive tabs for Bootstrap 5 & 4.  [Live Demo](https://www.jqueryscript.net/demo/Create-Responsive-Collapsible-Bootstrap-Tabs-Using-jQuery)
 
 ## UI Kits
 
@@ -176,6 +179,7 @@
 - [Dash-UI](https://github.com/codescandy/Dash-UI) - A free and open source components and templates kit for dashboard.
 - [Sneat Free Bootstrap Admin Template](https://github.com/themeselection/sneat-html-admin-template-free) - Open-source & Easy to use Free Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
 - [Atrana Dashboard](https://github.com/atranathemes/Atrana) - Free and Open-source Bootstrap 5 Admin Dashboard Template and Landing Page.
+- [bootstrap-admin-template](https://github.com/asterodigital/bootstrap-admin-template) - Free Bootstrap 5.3 HTML Admin Dashboard Template.  [Live Demo](https://astero-admin.asterodigital.com/pages/dashboard)
 
 ## Libraries
 
