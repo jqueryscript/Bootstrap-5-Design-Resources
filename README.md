@@ -152,6 +152,7 @@
 - [shadstrap](https://github.com/eugabrielsilva/shadstrap) - A CSS theme based on shadcn/ui look, with the benefits of Bootstrap utilities and FontAwesome icons.  [Live Demo](https://www.cssscript.com/demo/bootstrap-shadcn-ui-theme)
 - [bootstrap-responsive-tabs](https://github.com/InventPartners/bootstrap-responsive-tabs) - Responsive tabs for Bootstrap 5 & 4.  [Live Demo](https://www.jqueryscript.net/demo/Create-Responsive-Collapsible-Bootstrap-Tabs-Using-jQuery)
 - [bootstrap-5-modal-dynamic](https://github.com/FranBar1966/bootstrap-5-modal-dynamic) - Modals with dynamically loaded content, open modals within modals and possibility to close the modal with the back button. [Live Demo](https://www.cssscript.com/demo/dynamic-bootstrap-modals-html)
+- [Bootstrap 5 Confirm Popover](https://github.com/irvirv/bootstrap5-confirm-popover) - Lightweight Bootstrap 5 confirmation popover plugin — no jQuery required. [Live Demo](https://www.cssscript.com/demo/bootstrap-confirm-popover)
 
 ## UI Kits
 
