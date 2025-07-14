@@ -154,6 +154,7 @@
 - [bootstrap-5-modal-dynamic](https://github.com/FranBar1966/bootstrap-5-modal-dynamic) - Modals with dynamically loaded content, open modals within modals and possibility to close the modal with the back button. [Live Demo](https://www.cssscript.com/demo/dynamic-bootstrap-modals-html)
 - [Bootstrap 5 Confirm Popover](https://github.com/irvirv/bootstrap5-confirm-popover) - Lightweight Bootstrap 5 confirmation popover plugin — no jQuery required. [Live Demo](https://www.cssscript.com/demo/bootstrap-confirm-popover)
 - [select-checklist-bootstrap](https://github.com/omerosmanoglu/select-checklist-bootstrap) - Tiny Bootstrap plugin that transforms a standard HTML multi-select element into a user-friendly dropdown with checkboxes integrated. [Live Demo](https://www.cssscript.com/demo/multi-select-bootstrap-checklist)
+- [BootstrapTreeTable](https://github.com/andykramer/BootstrapTreeTable) - A flexible, modern JavaScript plugin for hierarchical tables built with Bootstrap 5.. [Live Demo](https://www.cssscript.com/demo/tree-table-bootstrap)
 
 ## UI Kits
 
