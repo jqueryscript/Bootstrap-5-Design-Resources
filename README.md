@@ -155,6 +155,9 @@
 - [Bootstrap 5 Confirm Popover](https://github.com/irvirv/bootstrap5-confirm-popover) - Lightweight Bootstrap 5 confirmation popover plugin — no jQuery required. [Live Demo](https://www.cssscript.com/demo/bootstrap-confirm-popover)
 - [select-checklist-bootstrap](https://github.com/omerosmanoglu/select-checklist-bootstrap) - Tiny Bootstrap plugin that transforms a standard HTML multi-select element into a user-friendly dropdown with checkboxes integrated. [Live Demo](https://www.cssscript.com/demo/multi-select-bootstrap-checklist)
 - [BootstrapTreeTable](https://github.com/andykramer/BootstrapTreeTable) - A flexible, modern JavaScript plugin for hierarchical tables built with Bootstrap 5.. [Live Demo](https://www.cssscript.com/demo/tree-table-bootstrap)
+- [bs-table](https://github.com/ThomasDev-de/bs-table) - A light and user-friendly table plugin developed for Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/dynamic-bs-data-table)
+- [date-picker](https://github.com/miguelr215/date-picker) - Custom date picker (Material Design mimic) using Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/material-date-picker-bootstrap)
+- [bs-layer](https://github.com/ThomasDev-de/bs-layer) - A lightweight sliding layer system for jQuery and Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/stackable-offcanvas-bs-layer)
 
 ## UI Kits
 
