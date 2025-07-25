@@ -158,6 +158,7 @@
 - [bs-table](https://github.com/ThomasDev-de/bs-table) - A light and user-friendly table plugin developed for Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/dynamic-bs-data-table)
 - [date-picker](https://github.com/miguelr215/date-picker) - Custom date picker (Material Design mimic) using Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/material-date-picker-bootstrap)
 - [bs-layer](https://github.com/ThomasDev-de/bs-layer) - A lightweight sliding layer system for jQuery and Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/stackable-offcanvas-bs-layer)
+- [stackAlert](https://github.com/FVLogika/stackAlert) - A Stacked Bootstrap 5 Toast Notification Plugin. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-stack-toast-alert)
 
 ## UI Kits
 
