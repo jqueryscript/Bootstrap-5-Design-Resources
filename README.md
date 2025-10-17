@@ -159,7 +159,8 @@
 - [date-picker](https://github.com/miguelr215/date-picker) - Custom date picker (Material Design mimic) using Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/material-date-picker-bootstrap)
 - [bs-layer](https://github.com/ThomasDev-de/bs-layer) - A lightweight sliding layer system for jQuery and Bootstrap 5. [Live Demo](https://www.jqueryscript.net/demo/stackable-offcanvas-bs-layer)
 - [stackAlert](https://github.com/FVLogika/stackAlert) - A Stacked Bootstrap 5 Toast Notification Plugin. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-stack-toast-alert)
-- [bootstrap5-dialog](https://github.com/MrCiny/bootstrap5-dialog) - A jQuery plugin for the latest Bootstrap 5 framework that lets you create and manage Bootstrap modal dialogs programmatically.. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-modal-dialog-one-line)
+- [bootstrap5-dialog](https://github.com/MrCiny/bootstrap5-dialog) - A jQuery plugin for the latest Bootstrap 5 framework that lets you create and manage Bootstrap modal dialogs programmatically. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-modal-dialog-one-line)
+- [avalynx-lightbox](https://github.com/avalynx/avalynx-lightbox) - A simple, lightweight, and easy-to-use lightbox library. Based on Bootstrap >=5.3 without any framework dependencies. [Live Demo](https://www.cssscript.com/demo/bootstrap-image-lightbox-avalynx/)
 
 ## UI Kits
 
