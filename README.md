@@ -162,6 +162,7 @@
 - [bootstrap5-dialog](https://github.com/MrCiny/bootstrap5-dialog) - A jQuery plugin for the latest Bootstrap 5 framework that lets you create and manage Bootstrap modal dialogs programmatically. [Live Demo](https://www.jqueryscript.net/demo/bootstrap-modal-dialog-one-line)
 - [avalynx-lightbox](https://github.com/avalynx/avalynx-lightbox) - A simple, lightweight, and easy-to-use lightbox library. Based on Bootstrap >=5.3 without any framework dependencies. [Live Demo](https://www.cssscript.com/demo/bootstrap-image-lightbox-avalynx/)
 - [bootstrap-sheet](https://github.com/mironovsergey/bootstrap-sheet) - A touch-friendly bottom sheet component for Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/ios-bottom-sheet-bootstrap)
+- [touchspin](https://github.com/istvan-ujjmeszaros/touchspin) - Touch-friendly numeric spinner for React, Tailwind, and vanilla JavaScript. [Live Demo](https://www.jqueryscript.net/demo/Touch-Friendly-jQuery-Input-Spinner-Plugin-For-Bootstrap-3-TouchSpin)
 
 ## UI Kits
 
