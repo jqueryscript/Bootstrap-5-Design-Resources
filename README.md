@@ -164,6 +164,7 @@
 - [bootstrap-sheet](https://github.com/mironovsergey/bootstrap-sheet) - A touch-friendly bottom sheet component for Bootstrap 5. [Live Demo](https://www.cssscript.com/demo/ios-bottom-sheet-bootstrap)
 - [touchspin](https://github.com/istvan-ujjmeszaros/touchspin) - Touch-friendly numeric spinner for React, Tailwind, and vanilla JavaScript. [Live Demo](https://www.jqueryscript.net/demo/Touch-Friendly-jQuery-Input-Spinner-Plugin-For-Bootstrap-3-TouchSpin)
 - [FlyoutMenu](https://github.com/delphiassistant/FlyoutMenu) - Bootstrap 5 + jQuery compatible multi-level flyout menu for widget integration with full dark mode support. [Live Demo](https://www.jqueryscript.net/demo/flyout-menu-bootstrap)
+- [BarnamenevisEditor](https://github.com/delphiassistant/FlyoutMenu) - A Bootstrap 5/jQuery WYSIWYG Editor. [Live Demo](https://www.jqueryscript.net/demo/wysiwyg-editor-rtl-bootstrap)
 
 ## UI Kits
 
