@@ -166,6 +166,7 @@
 - [FlyoutMenu](https://github.com/delphiassistant/FlyoutMenu) - Bootstrap 5 + jQuery compatible multi-level flyout menu for widget integration with full dark mode support. [Live Demo](https://www.jqueryscript.net/demo/flyout-menu-bootstrap)
 - [BarnamenevisEditor](https://github.com/delphiassistant/FlyoutMenu) - A Bootstrap 5/jQuery WYSIWYG Editor. [Live Demo](https://www.jqueryscript.net/demo/wysiwyg-editor-rtl-bootstrap)
 - [avalynx-cardslider](https://github.com/avalynx/avalynx-cardslider) - A lightweight, native JavaScript slider designed specifically for the Bootstrap grid system.. [Live Demo](https://www.cssscript.com/demo/bootstrap-card-slider-avalynx)
+- [avalynx-autocomplete](https://github.com/avalynx/avalynx-autocomplete) - A lightweight, customizable autocomplete component for web applications. It is designed to be used with Bootstrap version 5.3 or higher and does not require any framework dependencies. [Live Demo](https://www.cssscript.com/demo/bootstrap-autocomplete-avalynx/)
 
 ## UI Kits
 
