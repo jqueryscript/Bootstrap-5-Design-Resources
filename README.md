@@ -167,6 +167,10 @@
 - [BarnamenevisEditor](https://github.com/delphiassistant/FlyoutMenu) - A Bootstrap 5/jQuery WYSIWYG Editor. [Live Demo](https://www.jqueryscript.net/demo/wysiwyg-editor-rtl-bootstrap)
 - [avalynx-cardslider](https://github.com/avalynx/avalynx-cardslider) - A lightweight, native JavaScript slider designed specifically for the Bootstrap grid system.. [Live Demo](https://www.cssscript.com/demo/bootstrap-card-slider-avalynx)
 - [avalynx-autocomplete](https://github.com/avalynx/avalynx-autocomplete) - A lightweight, customizable autocomplete component for web applications. It is designed to be used with Bootstrap version 5.3 or higher and does not require any framework dependencies. [Live Demo](https://www.cssscript.com/demo/bootstrap-autocomplete-avalynx/)
+- [bs-darkmode-toggle](https://github.com/palcarazm/bs-darkmode-toggle) - Bootstrap Darkmode Toggle is a plugin for bootstrap to add a ligthmode/darkmode switch in to your app.. [Live Demo](https://www.jqueryscript.net/demo/dark-mode-toggle-bs)
+- [jquery-media-library](https://github.com/raca12/jquery-media-library) - A beautiful media browser modal for jQuery. [Live Demo](https://www.jqueryscript.net/demo/media-browser-modal)
+- [bootpag](https://github.com/botmonster/jquery-bootpag) - A dynamic pagination jQuery plugin for Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/dynamic-bootstrap-pagination)
+- [bs-markdown-editor](https://github.com/ThomasDev-de/bs-markdown-editor) - A lightweight Bootstrap-styled jQuery Markdown editor with toolbar, preview mode, and configurable actions. [Live Demo](https://www.jqueryscript.net/demo/bs-markdown-editor-preview)
 
 ## UI Kits
 
