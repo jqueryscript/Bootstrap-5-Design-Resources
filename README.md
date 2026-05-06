@@ -171,6 +171,7 @@
 - [jquery-media-library](https://github.com/raca12/jquery-media-library) - A beautiful media browser modal for jQuery. [Live Demo](https://www.jqueryscript.net/demo/media-browser-modal)
 - [bootpag](https://github.com/botmonster/jquery-bootpag) - A dynamic pagination jQuery plugin for Bootstrap. [Live Demo](https://www.jqueryscript.net/demo/dynamic-bootstrap-pagination)
 - [bs-markdown-editor](https://github.com/ThomasDev-de/bs-markdown-editor) - A lightweight Bootstrap-styled jQuery Markdown editor with toolbar, preview mode, and configurable actions. [Live Demo](https://www.jqueryscript.net/demo/bs-markdown-editor-preview)
+- [bsTimepicker](https://github.com/ThomasDev-de/bs-timepicker) - A jQuery time picker plugin with Bootstrap 4/5-compatible dropdown UI, 12h/24h modes, and form-friendly value handling. [Live Demo](https://www.jqueryscript.net/demo/clock-time-picker-bootstrap)
 
 ## UI Kits
 
