@@ -173,6 +173,7 @@
 - [bs-markdown-editor](https://github.com/ThomasDev-de/bs-markdown-editor) - A lightweight Bootstrap-styled jQuery Markdown editor with toolbar, preview mode, and configurable actions. [Live Demo](https://www.jqueryscript.net/demo/bs-markdown-editor-preview)
 - [bsTimepicker](https://github.com/ThomasDev-de/bs-timepicker) - A jQuery time picker plugin with Bootstrap 4/5-compatible dropdown UI, 12h/24h modes, and form-friendly value handling. [Live Demo](https://www.jqueryscript.net/demo/clock-time-picker-bootstrap)
 - [bs-typeahead](https://github.com/biggora/bs-typeahead) - A framework-agnostic typeahead/autocomplete for Bootstrap 5.3, with a thin React wrapper. [Live Demo](https://www.jqueryscript.net/demo/AJAX-enabled-Typeahead-Autocomplete-Plugin-For-jQuery-Bootstrap)
+- [bs-touchspin](https://github.com/ThomasDev-de/bs-touchspin) - A lightweight, Bootstrap 5-ready jQuery spinner plugin for numeric inputs, with flexible step/min/max handling, locale-aware formatting (number, percent, currency), customizable controls, and clean lifecycle/events for stable production use. [Live Demo](https://www.jqueryscript.net/demo/bs-touch-spin/)
 
 ## UI Kits
 
